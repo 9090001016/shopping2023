@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping2023/static/css/main.22a6e378.css",
+    "main.js": "/shopping2023/static/js/main.14641121.js",
+    "static/js/787.7d594e25.chunk.js": "/shopping2023/static/js/787.7d594e25.chunk.js",
+    "static/media/image5.jfif": "/shopping2023/static/media/image5.878968bc0d0846854a97.jfif",
+    "static/media/image7.jpg": "/shopping2023/static/media/image7.20f6cf14f30635d6a8f9.jpg",
+    "static/media/image6.jpg": "/shopping2023/static/media/image6.925dbdfad6cc04f8b861.jpg",
+    "static/media/shirts.jfif": "/shopping2023/static/media/shirts.4850031aa02b3c099db5.jfif",
+    "static/media/shorts.jfif": "/shopping2023/static/media/shorts.31d78acd004c66083779.jfif",
+    "static/media/jeans.jfif": "/shopping2023/static/media/jeans.eea4180691e37b88eed6.jfif",
+    "static/media/logo.svg": "/shopping2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shopping2023/index.html",
+    "main.22a6e378.css.map": "/shopping2023/static/css/main.22a6e378.css.map",
+    "main.14641121.js.map": "/shopping2023/static/js/main.14641121.js.map",
+    "787.7d594e25.chunk.js.map": "/shopping2023/static/js/787.7d594e25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a6e378.css",
+    "static/js/main.14641121.js"
+  ]
+}
